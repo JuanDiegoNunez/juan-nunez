@@ -1,0 +1,38 @@
+template: online-cv
+skin: blue
+basic_info: null
+first_name: Juan
+last_name: Nunez
+from: Venezuela
+goals: I wanna do a someone that help the people for progress in his web page
+Contact: null
+email: Juandiegonunez2013@Gmail.com
+phone: 786-495-4829
+Github: JuanDiegoNunez
+EDUCATION: null
+Certificate: Full Stack Web Development
+College: 4GeeksAcademy-Miami dade college
+Duration: from may 2024 to agust 2024
+certificate: GED
+school: Unidad Educativa Maria Auxiliadora
+durdation: from 2012 to 2017
+university: Urbe university
+certificates: entry level business Administration
+languaje:
+  -idiom: English
+  -level: C1
+  -idioms: Spanish
+  -levels: Native
+carrer_Profile: I am an entry-level Full Stack developer with a solid knowledge
+  of both client-side and server-side web technologies. I recently completed an
+  intensive full stack web development bootcamp at Miami Dade College in company
+  with 4geekAcademy, where I gained practical experience in HTML, CSS,
+  JavaScript, React, Node.js i've worked on several personal projects, I am a
+  quick learner and passionate about technology, always looking to improve my
+  skills and face new challenges. My goal is to contribute to a dynamic
+  development team, where i can apply my knowledge and grow professionally. i
+  have experiences with some framework such as Bootstrap and tailwind Css
+Experience: null
+front end: I did basic project such as, traffic light, pay form, photo feed of
+  instagram, excuse generator, domain name generator, random card generator,
+  simple counter, TodoList with react and another else
